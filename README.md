@@ -42,11 +42,11 @@ This project is a dynamic and interactive quiz application built using React. It
 git clone https://github.com/Aisiriivhegde/Quiz.git
 cd Quiz
 ```
-###📦 Step 2: Install Dependencies
+### 📦 Step 2: Install Dependencies
 ```
 npm install
 ```
-###🚀 Step 3: Start the App
+### 🚀 Step 3: Start the App
 ```
 npm start
 ```
@@ -94,7 +94,8 @@ Quiz/
 | QuizPage      | Fetches questions, tracks answers & timer  |
 
 
-📊 Functional Highlights
+### 📊 Functional Highlights
+
 🎯 7 MCQs per quiz
 
 🕒 15-second timer
@@ -105,7 +106,7 @@ Quiz/
 
 ⬅️ Navigation back to homepage
 
-🌱 Future Scope
+### 🌱 Future Scope
 Add difficulty filter
 
 Integrate authentication
