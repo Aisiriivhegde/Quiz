@@ -42,11 +42,11 @@ This project is a dynamic and interactive quiz application built using React. It
 git clone https://github.com/Aisiriivhegde/Quiz.git
 cd Quiz
 ```
-📦 Step 2: Install Dependencies
+###📦 Step 2: Install Dependencies
 ```
 npm install
 ```
-🚀 Step 3: Start the App
+###🚀 Step 3: Start the App
 ```
 npm start
 ```
@@ -55,17 +55,17 @@ Then open your browser and go to:
 http://localhost:3000
 ```
 🧪 Try It Out
-Start → Select “History”
+-Start → Select “History”
 
-Answer questions within 15 seconds
+-Answer questions within 15 seconds
 
-Submit and view score
+-Submit and view score
 
-🟢 Example Output:
-✅ Your Score: 6 / 7
-🔴 Example Output:
-❌ Your Score: 3 / 7
-🗂 Project Structure
+-🟢 Example Output:
+-✅ Your Score: 6 / 7
+-🔴 Example Output:
+-❌ Your Score: 3 / 7
+-🗂 Project Structure
 Quiz/
 ├── public/
 │   └── index.html
@@ -78,33 +78,33 @@ Quiz/
 │   ├── App.js                # Routing and layout
 │   └── index.js              # React entry point
 └── README.md
-📌 Key Components
-Component	Description
-HomePage	Starting point with Start button
+###📌 Key Components
+-Component	Description
+-HomePage	Starting point with Start button
 CategoryPage	Category selection with image cards
 QuizPage	Fetches questions, tracks answers & timer
 
-📊 Functional Highlights
-🎯 7 MCQs per quiz
+###📊 Functional Highlights
+-🎯 7 MCQs per quiz
 
-🕒 15-second timer
+-🕒 15-second timer
 
-🌗 Light/Dark mode toggle
+-🌗 Light/Dark mode toggle
 
-📈 Score summary with correct answers
+-📈 Score summary with correct answers
 
-⬅️ Navigation back to homepage
+-⬅️ Navigation back to homepage
 
-🌱 Future Scope
-Add difficulty filter
+###🌱 Future Scope
+-Add difficulty filter
 
-Integrate authentication
+-Integrate authentication
 
-Store scores in localStorage/backend
+-Store scores in localStorage/backend
 
-Add leaderboard
+-Add leaderboard
 
-Responsive PWA support
+-Responsive PWA support
 
 👩‍💻 Authors
 💡 Aisirii V Hegde and Akhila K
