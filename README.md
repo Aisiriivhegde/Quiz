@@ -68,8 +68,8 @@ http://localhost:3000
 
 ---
 
-### 🗂 Project Structure
-
+## 🗂 Project Structure
+```
 Quiz/
 ├── public/
 │ └── index.html
@@ -82,10 +82,10 @@ Quiz/
 │ ├── App.js # Routing and layout
 │ └── index.js # React entry point
 └── README.md
-
+```
 ---
 
-### 📌 Key Components
+## 📌 Key Components
 
 | Component     | Description                                |
 |---------------|--------------------------------------------|
@@ -94,7 +94,7 @@ Quiz/
 | QuizPage      | Fetches questions, tracks answers & timer  |
 
 
-### 📊 Functional Highlights
+## 📊 Functional Highlights
 
 🎯 7 MCQs per quiz
 
@@ -117,9 +117,9 @@ Add leaderboard
 
 Responsive PWA support
 
-👩‍💻 Authors
+## 👩‍💻 Authors
 💡 Aisirii V Hegde and Akhila K
-🌐 GitHub Profile
+🌐 https://github.com/Aisiriivhegde
 
-📄 License
+## 📄 License
 This project is built for learning and demonstration purposes. Feel free to fork and experiment!
