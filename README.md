@@ -93,6 +93,7 @@ Quiz/
 | CategoryPage  | Category selection with image cards        |
 | QuizPage      | Fetches questions, tracks answers & timer  |
 
+---
 
 ## 📊 Functional Highlights
 
@@ -106,6 +107,8 @@ Quiz/
 
 ⬅️ Navigation back to homepage
 
+---
+
 ### 🌱 Future Scope
 Add difficulty filter
 
@@ -116,6 +119,8 @@ Store scores in localStorage/backend
 Add leaderboard
 
 Responsive PWA support
+
+---
 
 ## 👩‍💻 Authors
 💡 Aisirii V Hegde and Akhila K
