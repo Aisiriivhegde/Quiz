@@ -107,9 +107,8 @@ Quiz/
 
 ⬅️ Navigation back to homepage
 
----
+##  🌱 Future Scope
 
-### 🌱 Future Scope
 Add difficulty filter
 
 Integrate authentication
