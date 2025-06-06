@@ -41,12 +41,19 @@ This project is a dynamic and interactive quiz application built using React. It
 ```bash
 git clone https://github.com/Aisiriivhegde/Quiz.git
 cd Quiz
+```
 📦 Step 2: Install Dependencies
+```
 npm install
+```
 🚀 Step 3: Start the App
+```
 npm start
+```
 Then open your browser and go to:
+```
 http://localhost:3000
+```
 🧪 Try It Out
 Start → Select “History”
 
@@ -100,7 +107,7 @@ Add leaderboard
 Responsive PWA support
 
 👩‍💻 Authors
-💡 Aisirii V Hegde and Akhila
+💡 Aisirii V Hegde and Akhila K
 🌐 GitHub Profile
 
 📄 License
