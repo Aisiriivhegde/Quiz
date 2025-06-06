@@ -119,6 +119,7 @@ Responsive PWA support
 
 ## 👩‍💻 Authors
 💡 Aisirii V Hegde and Akhila K
+
 🌐 https://github.com/Aisiriivhegde
 
 ## 📄 License
