@@ -54,57 +54,67 @@ Then open your browser and go to:
 ```
 http://localhost:3000
 ```
-🧪 Try It Out
--Start → Select “History”
+### 🧪 Try It Out
 
--Answer questions within 15 seconds
+- Start → Select “History”
+- Answer questions within 15 seconds
+- Submit and view score
 
--Submit and view score
+🟢 Example Output:  
+✅ Your Score: 6 / 7
 
--🟢 Example Output:
--✅ Your Score: 6 / 7
--🔴 Example Output:
--❌ Your Score: 3 / 7
--🗂 Project Structure
+🔴 Example Output:  
+❌ Your Score: 3 / 7
+
+---
+
+### 🗂 Project Structure
+
 Quiz/
 ├── public/
-│   └── index.html
+│ └── index.html
 ├── src/
-│   ├── assets/               # (Optional) local images
-│   ├── pages/
-│   │   ├── HomePage.js       # Welcome screen
-│   │   ├── CategoryPage.js   # Category selection
-│   │   └── QuizPage.js       # Main quiz logic
-│   ├── App.js                # Routing and layout
-│   └── index.js              # React entry point
+│ ├── assets/ # (Optional) local images
+│ ├── pages/
+│ │ ├── HomePage.js # Welcome screen
+│ │ ├── CategoryPage.js # Category selection
+│ │ └── QuizPage.js # Main quiz logic
+│ ├── App.js # Routing and layout
+│ └── index.js # React entry point
 └── README.md
-###📌 Key Components
--Component	Description
--HomePage	Starting point with Start button
-CategoryPage	Category selection with image cards
-QuizPage	Fetches questions, tracks answers & timer
 
-###📊 Functional Highlights
--🎯 7 MCQs per quiz
+---
 
--🕒 15-second timer
+### 📌 Key Components
 
--🌗 Light/Dark mode toggle
+| Component     | Description                                |
+|---------------|--------------------------------------------|
+| HomePage      | Starting point with Start button           |
+| CategoryPage  | Category selection with image cards        |
+| QuizPage      | Fetches questions, tracks answers & timer  |
 
--📈 Score summary with correct answers
 
--⬅️ Navigation back to homepage
+📊 Functional Highlights
+🎯 7 MCQs per quiz
 
-###🌱 Future Scope
--Add difficulty filter
+🕒 15-second timer
 
--Integrate authentication
+🌗 Light/Dark mode toggle
 
--Store scores in localStorage/backend
+📈 Score summary with correct answers
 
--Add leaderboard
+⬅️ Navigation back to homepage
 
--Responsive PWA support
+🌱 Future Scope
+Add difficulty filter
+
+Integrate authentication
+
+Store scores in localStorage/backend
+
+Add leaderboard
+
+Responsive PWA support
 
 👩‍💻 Authors
 💡 Aisirii V Hegde and Akhila K
